@@ -5,7 +5,7 @@ Technology_platforms.md
 Modern_aerodynamics.md
 Electric_power_conversion.md
 Energy_storage.md
-Lightweight_construction__.md
+Lightweight_construction.md
 Software_and_autonomy__.md
 State_of_the_art__.md
 Swedish_research_and_business__.md
