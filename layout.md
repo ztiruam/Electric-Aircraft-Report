@@ -8,3 +8,4 @@ Energy_storage__.md
 Lightweight_construction__.md
 Software_and_autonomy__.md
 State_of_the_art__.md
+Swedish_research_and_business__.md
