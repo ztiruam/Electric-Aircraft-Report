@@ -1,4 +1,5 @@
 ## Modern aerodynamics
   
-  Mark Drela \cite{cite-key}
+  Mark Drela \cite{Uranga_2011}
+  
   
