@@ -3,7 +3,7 @@ Executive_summary.md
 Introduction.md
 Technology_platforms.md
 Modern_aerodynamics.md
-Electric_power_conversion__.md
+Electric_power_conversion.md
 Energy_storage__.md
 Lightweight_construction__.md
 Software_and_autonomy__.md
