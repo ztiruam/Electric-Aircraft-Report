@@ -9,7 +9,6 @@ Energy_storage.md
 Lightweight_construction.md
 Safety__.md
 Software_and_autonomy.md
-Safety__1.md
 State_of_the_art.md
 Swedish_research_and_business.md
 Conclusions.md
