@@ -2,7 +2,8 @@
   
   Mark Drela \cite{Uranga_2011}
   
-  See also Figure \ref{fig:wake}
+  See also Fig. \ref{fig:wake}
+  
   
   
   
