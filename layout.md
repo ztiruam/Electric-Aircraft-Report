@@ -7,6 +7,7 @@ Transport_analysis__.md
 Technology_platforms.md
 Safety_Resilence_and_redundancy_No__.md
 Modern_aerodynamics.md
+figures/wake_drela/wake_drela.png
 Electric_power_conversion.md
 Energy_storage.md
 Lightweight_construction.md
