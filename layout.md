@@ -5,7 +5,7 @@ Impact_on_society__.md
 Sustainability__.md
 Transport_analysis__.md
 Technology_platforms.md
-Safety_6_sigma_method_Proven__.md
+Safety_Resilence_and_redundancy_No__.md
 Modern_aerodynamics.md
 Electric_power_conversion.md
 Energy_storage.md
