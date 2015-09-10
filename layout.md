@@ -4,6 +4,7 @@ Introduction.md
 Impact_on_society__.md
 Sustainability.md
 Transport_analysis__.md
+Economics.md
 Technology_platforms.md
 Safety.md
 Modern_aerodynamics.md
