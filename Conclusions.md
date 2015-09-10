@@ -1,6 +1,7 @@
 # Conclusions
 
-and recommendations for future research
+Recommendations for future research.
+  
   
   
   
