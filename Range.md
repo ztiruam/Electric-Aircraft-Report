@@ -2,4 +2,4 @@
 
 ## Specific energy altitude
 
-$ D/L=\alpha$
+$$ D/L=\alpha $$
