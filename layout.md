@@ -11,6 +11,7 @@ Modern_aerodynamics.md
 figures/wake_drela/wake_drela.png
 Energy_storage.md
 Electric_power_conversion.md
+Range.md
 Lightweight_construction.md
 Software_and_autonomy.md
 State_of_the_art.md
