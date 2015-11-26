@@ -4,8 +4,8 @@
 
 $$ D/L=\alpha $$
 
-$$ s = \frac{E}{D}= \frac{m\_b e}{L\alpha} = \frac{m\_b e}{m g}\alpha = \alpha \frac{m\_b}{m}\frac{e}{g} $$ 
+$$ s = \frac{E}{D}= \frac{m_b e}{L\alpha} = \frac{m_b e}{m g}\alpha = \alpha \frac{m_b}{m}\frac{e}{g} $$ 
 
 Specific energy altitude
 
-$$ h\_e = \frac{e}{g} $$
+$$ h_e = \frac{e}{g} $$
